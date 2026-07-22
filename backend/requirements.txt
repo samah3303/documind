@@ -1,0 +1,22 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Document processing
+pdfplumber>=0.10.0
+python-docx>=1.1.0
+langchain-text-splitters>=0.2.0
+
+# Embeddings
+sentence-transformers>=2.6.0
+
+# Vector database
+chromadb>=0.4.22
+
+# Database
+asyncpg>=0.29.0
+
+# HTTP client
+httpx>=0.26.0
