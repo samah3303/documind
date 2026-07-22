@@ -8,6 +8,7 @@
 [![DeepSeek](https://img.shields.io/badge/LLM-DeepSeek-536DFE)](https://deepseek.com)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-4CAF50)](https://trychroma.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit)](https://6inb6p9vyjod8csr37gyxv.streamlit.app)
 
 ---
 
@@ -246,7 +247,13 @@ Response:
 
 ---
 
-## 🚢 Deployment
+## 🌐 Live Demo
+
+**[🔗 documind.streamlit.app](https://6inb6p9vyjod8csr37gyxv.streamlit.app)**
+
+> **Note:** You'll need a DeepSeek API key to use the app. Set it in the Streamlit Cloud secrets or enter it in the sidebar.
+
+## 🚢 Self-Hosted Deployment
 
 ### Backend (FastAPI)
 
@@ -260,9 +267,9 @@ railway up
 fly launch
 ```
 
-### Frontend (Streamlit)
+### Streamlit Cloud (Recommended)
 
-Deploy to **Streamlit Community Cloud** or **Vercel** (static proxy).
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
 
 ### One-Click Deploy
 
