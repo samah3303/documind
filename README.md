@@ -95,7 +95,7 @@
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/documind.git
+git clone https://github.com/samah3303/documind.git
 cd documind
 ```
 
@@ -320,7 +320,7 @@ ruff check backend/ frontend/
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © samah3303
 
 ---
 
